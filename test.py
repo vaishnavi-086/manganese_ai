@@ -1,0 +1,1 @@
+print("Manganese AI project started!")
